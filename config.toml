@@ -1,4 +1,4 @@
-baseURL = "https://hugo.skj.dev"
+baseURL = "https://skj.dev"
 languageCode = "en-us"
 paginate = 5
 theme = "terminal"
@@ -60,5 +60,10 @@ theme = "terminal"
         name = "blog"
         url = "https://108minutes.net"
         weight = -7
+      [[languages.en.menu.main]]
+        identifier = "tags"
+        name = "tags"
+        url = "/tags"
+        weight = -6
 
 

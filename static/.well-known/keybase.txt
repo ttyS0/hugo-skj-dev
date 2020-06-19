@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/ttys0
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://skj.dev
+  * I am ttys0 (https://keybase.io/ttys0) on keybase.
+  * I have a public key ASCDsfqY7YIxZ7GaCZVn1HFuAfoZ8_Q1lBI5Jctk-NU7Zwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01015138a271805604540f30d193bc84e43707e90e93f1ae383f311e925b442c757b0a",
+      "host": "keybase.io",
+      "kid": "012083b1fa98ed823167b19a099567d4716e01fa19f3f43594123925cb64f8d53b670a",
+      "uid": "ecfff5d1fb741d15573d0e242a809f00",
+      "username": "ttys0"
+    },
+    "merkle_root": {
+      "ctime": 1579535342,
+      "hash": "bb5e4008eb5139b8f8c6cace150ef67c2b1ebd1209daf25c7072d565a8dd5f65c8aecd228105157e50f607e032f991ae971778be6d9a5c20b5c215585bec2771",
+      "hash_meta": "e1e0259da620be9bbeb8c4614561403f0aa159636844695506b01fa0b44a1ea3",
+      "seqno": 14297157
+    },
+    "service": {
+      "entropy": "9ZerAE2kDiFSbONarXap+MVd",
+      "hostname": "skj.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1579535345,
+  "expire_in": 504576000,
+  "prev": "0ee3b2617066ae59234f35ba13194be31c6cc4d77ba30df3912d3e3d757ec62e",
+  "seqno": 102,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgg7H6mO2CMWexmgmVZ9RxbgH6GfP0NZQSOSXLZPjVO2cKp3BheWxvYWTESpcCZsQgDuOyYXBmrlkjTzW6ExlL4xxsxNd7ow3zkS0+PXV+xi7EIAoqjqXYKFajm5tuPNqHmAdzAnwfM1/jzkMjWheWY82bAgHCo3NpZ8RAA902I6v4LQ9FDV3FkkGsIU1hvqKzVwqtaWTNjQc5i7H70X+HCQG8Mg77/lREaWi8H+seEgBronY9bwwXAz4SAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBFLOLb38TGCz0/9gcaY1LYP1sqRmq3JW+Pg5wS9xCsao3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ttys0
+
+==================================================================
+
