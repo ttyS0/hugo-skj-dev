@@ -46,9 +46,9 @@ theme = "terminal"
         url = "/about"
         weight = -10
       [[languages.en.menu.main]]
-        identifier = "github"
-        name = "github"
-        url = "https://github.com/ttyS0"
+        identifier = "git"
+        name = "git"
+        url = "https://git.skj.dev"
         weight = -9
       [[languages.en.menu.main]]
         identifier = "wiki"
