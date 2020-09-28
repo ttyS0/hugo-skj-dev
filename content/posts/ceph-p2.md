@@ -1,7 +1,7 @@
 ---
 typora-root-url: ../../static
 title: "Ceph - Part 2 (Setup)"
-date: "2020-08-30"
+date: "2020-09-27"
 cover: "/img/ceph-p2-cover.jpg"
 tags: ["Ceph","HomeLab"]
 keywords: ["", ""]
