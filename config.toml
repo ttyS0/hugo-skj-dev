@@ -4,20 +4,15 @@ paginate = 5
 theme = "terminal"
 
 [params]
-
   contentTypeName = "posts"
-
   themeColor = "green"
-
   showMenuItems = 5
-
   showLanguageSelector = false
-
   fullWidthTheme = false
-
   centerTheme = true
-
   showLastUpdated = false
+  author = "Sean Johnson"
+
 
 [params.twitter]
   creator = "ttys0"
